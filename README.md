@@ -1,2 +1,3 @@
 # computer-vision-projects
-my computer vision starts here
+learning what is github
+author - m_jitendra_durga_prasad
